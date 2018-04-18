@@ -1,0 +1,21 @@
+html,body,h1,h2,h3,h4,h5,h6 {
+	font-family: "Roboto", sans-serif
+}
+
+.big_font{
+	font-size: 50pt;
+}
+
+.left-right-10{
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+#social_links{
+	color: white;
+}
+
+#social_links a {
+	text-decoration: none;
+}
+
